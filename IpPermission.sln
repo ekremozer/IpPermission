@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpPermission.Web", "IpPermission.Web\IpPermission.Web.csproj", "{0D70BC48-F4E4-4638-9DF4-6CE76B009831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D70BC48-F4E4-4638-9DF4-6CE76B009831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D70BC48-F4E4-4638-9DF4-6CE76B009831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D70BC48-F4E4-4638-9DF4-6CE76B009831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D70BC48-F4E4-4638-9DF4-6CE76B009831}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {887D650C-8CA5-40D6-A3BE-9C1744B9845A}
+	EndGlobalSection
+EndGlobal
